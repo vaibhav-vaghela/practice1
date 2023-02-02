@@ -1,3 +1,9 @@
 <html>
- <h1> college assignment</h1>
+    <head>
+ <title> college assignment</title>
+
+<div>maths</div>
+<div>chemistry</div>
+<div>bio</div>
+</head>
 </html>
